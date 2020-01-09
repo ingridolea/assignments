@@ -1,0 +1,4 @@
+
+
+I looked into the expenditures in meals while traveling, finding in 2276 transactions, a total of over $150,000 spent, but with great variance: the median was 34 dollars, but there were 3 values over 1000 (found with another script). 
+All values are from the first quarter of 2017, and while most of them come from the program "Official Expenses of Members", there are 9 other programs that have spent in this category. 

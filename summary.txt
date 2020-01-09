@@ -1,0 +1,177 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         351
+	Longest value:         7 characters
+	Most common values:    None (184x)
+	                       V000132 (37x)
+	                       P000598 (34x)
+	                       S001183 (27x)
+	                       D000615 (26x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         374
+	Longest value:         35 characters
+	Most common values:    HON. FILEMON VELA (37x)
+	                       HON. JARED POLIS (34x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (29x)
+	                       HON. DAVID SCHWEIKERT (27x)
+	                       HON. JEFF DUNCAN (26x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (2276x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         10
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (2092x)
+	                       GENERAL EXPENDITURES (85x)
+	                       NEW MEMBERS ORIENTATION (21x)
+	                       WOUNDED WARRIOR EXPENSES (18x)
+	                       APPROPRIATIONS COMMITTEE (16x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (2276x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         71
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-02-16 (69x)
+	                       2017-03-06 (66x)
+	                       2017-03-27 (65x)
+	                       2017-03-07 (64x)
+	                       2017-03-22 (63x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         2 characters
+	Most common values:    AP (2274x)
+	                       AR (2x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2042
+	Longest value:         8 characters
+	Most common values:    E0488242 (5x)
+	                       E0486362 (5x)
+	                       E0472410 (5x)
+	                       E0479404 (5x)
+	                       E0480328 (5x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1077
+	Longest value:         40 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (532x)
+	                       SCHWAB OLIVER (15x)
+	                       KING II JOSEPH W. (11x)
+	                       HON. RICK LARSEN (10x)
+	                       MORRIS BEN W. (10x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         208
+	Smallest value:        2015-01-14
+	Largest value:         2017-03-24
+	Most common values:    2017-02-21 (75x)
+	                       2017-02-08 (62x)
+	                       2017-02-22 (57x)
+	                       2017-01-18 (51x)
+	                       2017-01-17 (43x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         218
+	Smallest value:        2015-01-14
+	Largest value:         2017-12-14
+	Most common values:    2017-02-24 (77x)
+	                       2017-02-23 (60x)
+	                       2017-02-22 (59x)
+	                       2017-02-10 (50x)
+	                       2017-01-17 (45x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         5 characters
+	Most common values:    MEALS (2276x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1967
+	Smallest value:        -416
+	Largest value:         4,903.91
+	Sum:                   150,597.2
+	Mean:                  66.167
+	Median:                34.625
+	StDev:                 145.447
+	Most common values:    20 (9x)
+	                       6 (5x)
+	                       35 (5x)
+	                       8 (5x)
+	                       11 (5x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2,015
+	Largest value:         2,017
+	Sum:                   4,589,875
+	Mean:                  2,016.641
+	Median:                2,017
+	StDev:                 0.483
+	Most common values:    2,017 (1463x)
+	                       2,016 (809x)
+	                       2,015 (4x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1077
+	Longest value:         40 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (532x)
+	                       SCHWAB OLIVER (15x)
+	                       KING II JOSEPH W. (11x)
+	                       HON. RICK LARSEN (10x)
+	                       MORRIS BEN W. (10x)
+
+Row count: 2276
