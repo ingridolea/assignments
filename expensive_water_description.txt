@@ -1,0 +1,1 @@
+I filtered the spreadsheet with the filter script, leaving only the rows with water expenditures over $1000, and created a new filtered spreadsheet, and a text document with the summary.  
